@@ -1,0 +1,19 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(67, 37, 73);
+    color: rgb(255, 255, 255);
+    margin-left: 3%;
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    
+    color: rgb(255, 255, 255);
+}
+a{
+    color: rgb(142, 188, 228);
+}
