@@ -1,10 +1,6 @@
 
-
-![1152403](https://github.com/santiisamudio/santiisamudio.github.io/assets/125133469/99b07b9e-c1ea-404c-91c7-fb75e7b2309c)
-
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-### Holaa! soy Santiago
+<h1 align="center">Holaa!Soy Santiago👋</h1>
+![hollow-knight-reading-map-pixel-art](https://github.com/santiisamudio/santiisamudio.github.io/assets/125133469/eb61d156-52d3-4da2-b383-616e2b9ceb44)  
 
 ### Cv: https://santiisamudio.github.io
 
@@ -18,7 +14,6 @@
 <br />
 <br />
 
-![hollow-knight-reading-map-pixel-art](https://github.com/santiisamudio/santiisamudio.github.io/assets/125133469/eb61d156-52d3-4da2-b383-616e2b9ceb44)
   
 ### 👨‍💻 Herramientas y Lenguajes
 
