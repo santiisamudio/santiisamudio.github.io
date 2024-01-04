@@ -1,6 +1,6 @@
 
-!((https://github.com/santiisamudio/santiisamudio.github.io/blob/main/Gif/hollow-knight-the-knight.gif))
-    
+
+<img src="https://github.com/santiisamudio/santiisamudio.github.io/blob/main/Gif/hollow-knight-the-knight.gif>
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Holaa! soy Santiago
