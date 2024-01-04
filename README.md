@@ -1,5 +1,5 @@
 
-<h1 align="center">Holaa!Soy Santiago👋</h1>
+<h1 align="center">Holaa! Soy Santiago👋</h1>
 
 ![hollow-knight-reading-map-pixel-art](https://github.com/santiisamudio/santiisamudio.github.io/assets/125133469/eb61d156-52d3-4da2-b383-616e2b9ceb44)  
 
@@ -27,6 +27,7 @@
 ![JAVA](https://img.shields.io/badge/java-white?logo=coffeescript&logoColor=red)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=black)
 
+![gol-d-roger-one-piece](https://github.com/santiisamudio/santiisamudio.github.io/assets/125133469/3c23f8fb-ec4d-4511-91c9-0a0c14365b5c)
 
 
 -----
