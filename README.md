@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="GIF" src="https://github.com/santiisamudio/santiisamudio.github.io/blob/main/Gif/gol-d-roger-one-piece.gif>" />
+![hollow-knight-reading-map-pixel-art](https://github.com/santiisamudio/santiisamudio.github.io/assets/125133469/eb61d156-52d3-4da2-b383-616e2b9ceb44)
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
