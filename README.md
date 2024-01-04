@@ -12,11 +12,6 @@
 <a href="https://www.instagram.com/santisamudio_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Santiago Samudio" height="30" width="40" /></a>
 </p>
 
-
-<a href="https://www.instagram.com/santisamudio_/">
-  <img align="left" alt="Santiago Samudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <br />
 <br />
 
