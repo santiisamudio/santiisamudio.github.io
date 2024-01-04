@@ -1,5 +1,5 @@
 
-!((https://imgs.search.brave.com/Dcf6EIjak8RiZqzGQPBOvZIvQ-LhdZaAPAF2gYmGXEY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMjA4LzE2MjMv/QXJOc1ZsVmx1ZXlo/TGdWb3liQWR3T1R3/LmpwZw))
+!((https://github.com/santiisamudio/santiisamudio.github.io/blob/main/Gif/hollow-knight-the-knight.gif))
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -23,12 +23,12 @@
 
 <br />
 
-[![C#](https://img.shields.io/badge/C%23-darkviolet?style=flat&logo=c#) 
-[![ASP.NET Core](https://img.shields.io/badge/.net-black?logo=.NET)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
-[![JAVA](https://img.shields.io/badge/java-white?logo=coffeescript&logoColor=red)
-[![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-darkviolet?style=flat&logo=c#) 
+![ASP.NET Core](https://img.shields.io/badge/.net-black?logo=.NET)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+![JAVA](https://img.shields.io/badge/java-white?logo=coffeescript&logoColor=red)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=black)
 
 
 
