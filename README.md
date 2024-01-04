@@ -17,7 +17,7 @@
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/9PalpZKlDt5iNfnFXT/giphy.gif" />
+  <img align="right" alt="GIF" src="https://tenor.com/es/view/gol-d-roger-one-piece-laugh-gif-21028191" />
   
 ### 👨‍💻 Herramientas y Lenguajes
 
